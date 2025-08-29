@@ -1,19 +1,38 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/SPs4PNWX)
 # Lab 1 : CEG 3400 Intro to Cyber Security
 
-## Name:
+## Name: `Thomas Kammoe`
 
 ### Task 1: Hashing
 
 **Reminder Deliverable:** Is your `salted-data.csv` in this repository?
 
+`yes`
+
 Answer the following in this file:
 
 * How many unique users are in the data?
+
+
+` there are 43 unique users`
+
+
 * How many salts did you create?
+
+
+` I created 43 unique salt for each user`
+
+
 * How many possible combinations will I need to try to figure out the secret ID
-  of all students (assume I know all potential secret IDs and have your 
+  of all students (assume I know all potential secret IDs and have your
   `salted-data.csv`)
+
+
+` you'll need to 79,507 combinations`
+
+
+
+
 * Instead of salts, if you were to use a nonce (unique number for each hashed
   field) how many possible combinations would I need to try?
 * Given the above, if this quiz data were *actual* class data, say for example
