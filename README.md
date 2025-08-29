@@ -7,7 +7,7 @@
 
 **Reminder Deliverable:** Is your `salted-data.csv` in this repository?
 
-`yes`
+yes
 
 Answer the following in this file:
 
