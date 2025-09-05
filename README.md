@@ -130,7 +130,11 @@ there were 14 words.
 My code iterated through 100000 nonces. 
 
 
-* What was the maximum number of hashes your code *could* compute given the above?
+* What was the maximum number of hashes your code *could* compute given the above? 
+
+100000
+
+
 * What did you think about Task 2?
 
 To me task 2 was a little bit tougher than task 1 because you had to find a nonce and a word that starts with 000.
