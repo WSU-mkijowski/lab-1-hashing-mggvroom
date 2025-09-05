@@ -48,7 +48,7 @@ If this quize were actual class data I would've given every unique user a salt t
 
   Why?
 
-I would've done that because taht would allow every user to have a special hash for thier informtion.  
+I would've done that because that would allow every user to have a special hash for thier informtion.  
 
 
 
